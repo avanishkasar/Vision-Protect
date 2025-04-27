@@ -69,3 +69,4 @@ Instagram: @avanish_kasar
 GitHub: @avanishkasar
 
 ## ✨ Built to protect your vision, because your eyes deserve better.
+[Copyright (c) 2025 Vision Protect](https://github.com/avanishkasar/Vision-Protect/blob/VisionProtect-Files/Copyright%20(c)%202025%20Vision%20Protect.txt)
