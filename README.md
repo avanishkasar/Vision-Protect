@@ -8,12 +8,19 @@ Copy
 Edit
 /app
  ├── src/main/java/com/example/visionprotect_03/MainActivity.kt
+ 
  ├── src/main/AndroidManifest.xml
+ 
  ├── src/main/res/layout/activity_main.xml
+ 
  ├── src/main/res/drawable/ (App icons, UI assets)
+ 
  ├── src/main/res/values/strings.xml
+ 
  ├── src/main/res/values/themes.xml
+ 
  └── build.gradle (Module: app)
+ 
 # 📄 Important Files
 
 File Path	Purpose
