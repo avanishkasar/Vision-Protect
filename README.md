@@ -132,6 +132,7 @@ Whether you're a casual user, a gamer, or a professional — Vision Protect sile
    ```bash
    git clone https://github.com/avanishkasar/Vision-Protect.git
    cd vision-protect
-
-
 ---
+MIT License
+
+Copyright (c) 2025 Vision Protect
