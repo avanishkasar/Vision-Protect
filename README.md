@@ -42,7 +42,7 @@ Whether you're a casual user, a gamer, or a professional — Vision Protect sile
 
 > Watch how Vision Protect works in real-time.
 
-<video src="https://github.com/avanishkasar/Vision-Protect/blob/Video-Tutorial/Demo/demo_video.mp4?raw=true" controls width="600">
+<video src="https://github.com/avanishkasar/Vision-Protect/blob/Video-Tutorial/Demo/demo_video.mp4?" controls width="600">
 Your browser does not support the video tag.
 </video>
 
