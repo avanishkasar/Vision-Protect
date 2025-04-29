@@ -5,7 +5,7 @@
     <string name="start_protection">Start Protection</string>
     <string name="stop_protection">Stop Protection</string>
     <string name="permission_required">Camera permission required for face detection</string>
-    <string name="footer_text">© 2025 VisionProtect. All rights reserved.\nVersion 1.0.0</string>
+    <string name="footer_text">© 2024 VisionProtect. All rights reserved.</string>
     <string name="how_it_works">How it Works</string>
     <string name="connect">Connect</string>
     <string name="about">About</string>
