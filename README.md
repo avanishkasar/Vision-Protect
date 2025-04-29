@@ -66,9 +66,9 @@ Whether you're a casual user, a gamer, or a professional — Vision Protect sile
 ➡ [VisionProtect-Files](https://github.com/avanishkasar/Vision-Protect/tree/VisionProtect-Files)
 
 # 🚀 Stay Connected
-[Developer](https://www.linkedin.com/in/avanish-k-a58104326) 
-[Instagram](https://www.instagram.com/avanishkasar)
-[GitHub](https://github.com/avanishkasar)
+[Developer](https://www.linkedin.com/in/avanish-k-a58104326) <br>
+[Instagram](https://www.instagram.com/avanishkasar)<br>
+[GitHub](https://github.com/avanishkasar)<br>
 
 ## 📄 License
 MIT License
