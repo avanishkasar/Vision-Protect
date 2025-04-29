@@ -38,14 +38,23 @@ Whether you're a casual user, a gamer, or a professional — Vision Protect sile
 
 ---
 
+## 🎬 How-to Tutorial Video
+
+> Watch how Vision Protect works in real-time.
+
+<video src="https://github.com/avanishkasar/Vision-Protect/blob/Video-Tutorial/Demo/demo_video.mp4?raw=true" controls width="600">
+Your browser does not support the video tag.
+</video>
+
+---
+
 ## 🖼 Screenshots
 
-![image1](https://github.com/avanishkasar/Vision-Protect/blob/Video-Tutorial/Demo/1st.jpg)
-![image2](https://github.com/avanishkasar/Vision-Protect/blob/Video-Tutorial/Demo/2nd.jpg)
-![image3](https://github.com/avanishkasar/Vision-Protect/blob/Video-Tutorial/Demo/3rd.jpg)
-
-# [VisionProtect-Files](https://github.com/avanishkasar/Vision-Protect/tree/VisionProtect-Files)
-
+<p align="center">
+  <img src="https://github.com/avanishkasar/Vision-Protect/blob/Video-Tutorial/Demo/1st.jpg?raw=true" alt="Screenshot 1" width="300"/>
+  <img src="https://github.com/avanishkasar/Vision-Protect/blob/Video-Tutorial/Demo/2nd.jpg?raw=true" alt="Screenshot 2" width="300"/>
+  <img src="https://github.com/avanishkasar/Vision-Protect/blob/Video-Tutorial/Demo/3rd.jpg?raw=true" alt="Screenshot 3" width="300"/>
+</p>
 
 ## 📦 Build & Run Instructions
 
