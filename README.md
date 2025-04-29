@@ -18,32 +18,43 @@ Whether you're a casual user, a gamer, or a professional — Vision Protect sile
 
 ## 🛠 Tech Stack
 
-- **Android Studio** — Native Android Development
-- **Kotlin / Java** — Core Language
-- **Google ARCore** — Augmented Reality SDK
-- **Google ML Kit** — Machine Learning Vision APIs
-- **Firestore** — Cloud Data Management (optional)
-- **Jetpack Compose** (planned) — UI Modernization
+- **Android Studio** — Native Android Development  
+- **Kotlin / Java** — Core Language  
+- **Google ARCore** — Augmented Reality SDK  
+- **Google ML Kit** — Machine Learning Vision APIs  
+- **Firestore** — Cloud Data Management (optional)  
+- **Jetpack Compose** (planned) — UI Modernization  
 
 ---
 
 ## 🚀 Features
 
-- 🔍 **Face Detection:** Real-time proximity monitoring to detect unsafe viewing distance.
-- 🛡 **Screen Blur/Blackout:** Automatic screen adjustment to avoid eye strain when too close.
-- 🎥 **How-to Tutorial:** Integrated video walkthrough for a smooth onboarding experience.
-- 🔗 **Social Connect:** Easy access to LinkedIn, Instagram, and GitHub via sleek icons.
-- 🎨 **Premium UI/UX:** Clean, minimalistic interface inspired by the latest AR/AI trends.
-- 🛠 **Lightweight:** Runs efficiently without draining battery or hogging memory.
+- 🔍 **Face Detection:** Real-time proximity monitoring to detect unsafe viewing distance.  
+- 🛡 **Screen Blur/Blackout:** Automatic screen adjustment to avoid eye strain when too close.  
+- 🎥 **How-to Tutorial:** Integrated video walkthrough for a smooth onboarding experience.  
+- 🔗 **Social Connect:** Easy access to LinkedIn, Instagram, and GitHub via sleek icons.  
+- 🎨 **Premium UI/UX:** Clean, minimalistic interface inspired by the latest AR/AI trends.  
+- 🛠 **Lightweight:** Runs efficiently without draining battery or hogging memory.  
+
+---
+
+## 🎬 How-to Tutorial (Click to Watch)
+
+[![Watch Video](https://img.youtube.com/vi/6H1oJErOH_g/maxresdefault.jpg)](https://github.com/avanishkasar/Vision-Protect/blob/Video-Tutorial/Demo/VisionProtect%20_Tutorial.mp4)
+
+*If video doesn't auto-play, click "Download" or "Open in new tab" on GitHub preview page.*
 
 ---
 
 ## 🖼 Screenshots
 
-![image](https://github.com/user-attachments/assets/172b8e85-d9e5-45fa-bdf7-4719038158b0)
+<p align="center">
+  <img src="https://github.com/avanishkasar/Vision-Protect/blob/Video-Tutorial/Demo/1st.jpg?raw=true" alt="Screenshot 1" width="300"/>
+  <img src="https://github.com/avanishkasar/Vision-Protect/blob/Video-Tutorial/Demo/2nd.jpg?raw=true" alt="Screenshot 2" width="300"/>
+  <img src="https://github.com/avanishkasar/Vision-Protect/blob/Video-Tutorial/Demo/3rd.jpg?raw=true" alt="Screenshot 3" width="300"/>
+</p>
 
-# [VisionProtect-Files](https://github.com/avanishkasar/Vision-Protect/tree/VisionProtect-Files)
-
+---
 
 ## 📦 Build & Run Instructions
 
@@ -51,7 +62,8 @@ Whether you're a casual user, a gamer, or a professional — Vision Protect sile
    ```bash
    git clone https://github.com/avanishkasar/Vision-Protect.git
    cd vision-protect
----
+## 📁 Files
+➡ [VisionProtect-Files](https://github.com/avanishkasar/Vision-Protect/tree/VisionProtect-Files)
+## 📄 License
 MIT License
-
-[Copyright (c) 2025 Vision Protect](https://github.com/avanishkasar/Vision-Protect/blob/VisionProtect-Files/Copyright%20(c)%202025%20Vision%20Protect.txt)
+[© 2025 Vision Protect](https://github.com/avanishkasar/Vision-Protect/blob/VisionProtect-Files/Copyright%20(c)%202025%20Vision%20Protect.txt)
