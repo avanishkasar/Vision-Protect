@@ -64,6 +64,12 @@ Whether you're a casual user, a gamer, or a professional — Vision Protect sile
    cd vision-protect
 ## 📁 Files
 ➡ [VisionProtect-Files](https://github.com/avanishkasar/Vision-Protect/tree/VisionProtect-Files)
+
+# 🚀 Stay Connected
+[Developer](https://www.linkedin.com/in/avanish-k-a58104326) 
+[Instagram](https://www.instagram.com/avanishkasar)
+[GitHub](https://github.com/avanishkasar)
+
 ## 📄 License
 MIT License
 [© 2025 Vision Protect](https://github.com/avanishkasar/Vision-Protect/blob/VisionProtect-Files/Copyright%20(c)%202025%20Vision%20Protect.txt)
